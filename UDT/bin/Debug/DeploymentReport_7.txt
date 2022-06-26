@@ -1,0 +1,30 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Drop
+       [UDT] (Assembly)
+     Create
+       [UDT] (Assembly)
+       [dbo].[Kwadrat] (User-Defined Type)
+       [dbo].[Prosta] (User-Defined Type)
+       [dbo].[Prostokat] (User-Defined Type)
+       [dbo].[Trojkat] (User-Defined Type)
+
+** Supporting actions
+     Drop
+       [dbo].[Kolo] (User-Defined Type)
+       [dbo].[Punkt] (User-Defined Type)
+     Create
+       [dbo].[Kolo] (User-Defined Type)
+       [dbo].[Punkt] (User-Defined Type)
+
+The project and target databases have different collation settings. Deployment errors might occur.
+

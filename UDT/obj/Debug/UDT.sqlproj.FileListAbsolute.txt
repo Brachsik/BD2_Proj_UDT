@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\BDProjFig\UDT\UDT\bin\Debug\UDT.dacpac
+C:\Users\Administrator\Desktop\BDProjFig\UDT\UDT\bin\Debug\UDT.dll
+C:\Users\Administrator\Desktop\BDProjFig\UDT\UDT\bin\Debug\UDT.pdb
+C:\Users\Administrator\Desktop\BDProjFig\UDT\UDT\obj\Debug\UDT.dll
+C:\Users\Administrator\Desktop\BDProjFig\UDT\UDT\obj\Debug\UDT.pdb
+C:\Users\Administrator\Desktop\BDProjFig\UDT\UDT\obj\Debug\Model.xml
+C:\Users\Administrator\Desktop\BDProjFig\UDT\UDT\obj\Debug\refactor.xml
+C:\Users\Administrator\Desktop\BDProjFig\UDT\UDT\obj\Debug\postdeploy.sql
+C:\Users\Administrator\Desktop\BDProjFig\UDT\UDT\obj\Debug\predeploy.sql
